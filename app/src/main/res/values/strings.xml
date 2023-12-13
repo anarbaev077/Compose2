@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">compose2</string>
+    <string name="food_menu_title">Food Menu</string>
+    <string name="food_details_title">Food Details</string>
+    <string name="food_menu_home">Home</string>
+    <string name="food_menu_search">Search</string>
+    <string name="food_menu_favourite">Favourite</string>
+    <string name="food_menu_user">User</string>
+</resources>
